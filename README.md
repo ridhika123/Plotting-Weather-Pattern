@@ -1,7 +1,7 @@
 # Plotting-Weather-Pattern
 
 ## Data Source: 
-The data for comes from a subset of The National Centers for Environmental Information (NCEI) Daily Global Historical Climatology Network (GHCN-Daily). The GHCN-Daily is comprised of daily climate records from thousands of land surface stations across the globe.
+The data comes from a subset of The National Centers for Environmental Information (NCEI) Daily Global Historical Climatology Network (GHCN-Daily). The GHCN-Daily is comprised of daily climate records from thousands of land surface stations across the globe.
 
 The data is from weather stations near Ann Arbor, Michigan, United States.
 
