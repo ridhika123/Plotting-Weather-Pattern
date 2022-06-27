@@ -15,4 +15,4 @@ The data is from weather stations near Ann Arbor, Michigan, United States.
 The source code can be found [here](https://github.com/ridhika123/Plotting-Weather-Pattern/blob/main/PlottingWeatherPatterns.ipynb).
 
 ## Final Output
-Final paper can be found [here](https://github.com/ridhika123/Plotting-Weather-Pattern/blob/main/Maximum_Minimum_Temprature.png).
+Final visualization can be found [here](https://github.com/ridhika123/Plotting-Weather-Pattern/blob/main/Maximum_Minimum_Temprature.png).
