@@ -1,4 +1,5 @@
 # Plotting Weather Patterns in Ann Arbor, Michigan
+Assignment from Coursera 
 
 ## Prompt
 Write some python code which returns a line graph of the record high and record low temperatures by day of the year over the period 2005-2014. The area between the record high and record low temperatures for each day should be shaded.
